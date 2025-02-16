@@ -22,8 +22,8 @@
  */
 class LC_1071 {
 
-    public String gcdOfStrings(String str1, String str2) {
-        String result = "";
+    public String_Problems gcdOfStrings(String_Problems str1, String_Problems str2) {
+        String_Problems result = "";
         if (!(str1 + str2).equals(str2 + str1)) {
             return result;
         } else {
